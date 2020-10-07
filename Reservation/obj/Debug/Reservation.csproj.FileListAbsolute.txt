@@ -1,0 +1,14 @@
+D:\Level1\C#\Reservation\bin\Debug\Reservation.exe.config
+D:\Level1\C#\Reservation\bin\Debug\Reservation.exe
+D:\Level1\C#\Reservation\bin\Debug\Reservation.pdb
+D:\Level1\C#\Reservation\obj\Debug\Reservation.csprojAssemblyReference.cache
+D:\Level1\C#\Reservation\obj\Debug\MainWindow.g.cs
+D:\Level1\C#\Reservation\obj\Debug\App.g.cs
+D:\Level1\C#\Reservation\obj\Debug\Reservation_MarkupCompile.cache
+D:\Level1\C#\Reservation\obj\Debug\Reservation_MarkupCompile.lref
+D:\Level1\C#\Reservation\obj\Debug\MainWindow.baml
+D:\Level1\C#\Reservation\obj\Debug\Reservation.g.resources
+D:\Level1\C#\Reservation\obj\Debug\Reservation.Properties.Resources.resources
+D:\Level1\C#\Reservation\obj\Debug\Reservation.csproj.GenerateResource.cache
+D:\Level1\C#\Reservation\obj\Debug\Reservation.exe
+D:\Level1\C#\Reservation\obj\Debug\Reservation.pdb

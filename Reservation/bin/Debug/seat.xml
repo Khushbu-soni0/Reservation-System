@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSeat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Seat>
+    <Name>1</Name>
+    <Customer />
+  </Seat>
+  <Seat>
+    <Name>2</Name>
+    <Customer>David</Customer>
+  </Seat>
+  <Seat>
+    <Name>3</Name>
+    <Customer>Alice</Customer>
+  </Seat>
+  <Seat>
+    <Name>4</Name>
+    <Customer />
+  </Seat>
+  <Seat>
+    <Name>5</Name>
+    <Customer>Bob</Customer>
+  </Seat>
+  <Seat>
+    <Name>6</Name>
+    <Customer>K</Customer>
+  </Seat>
+  <Seat>
+    <Name>7</Name>
+    <Customer />
+  </Seat>
+  <Seat>
+    <Name>8</Name>
+    <Customer>asd</Customer>
+  </Seat>
+  <Seat>
+    <Name>9</Name>
+    <Customer />
+  </Seat>
+  <Seat>
+    <Name>10</Name>
+    <Customer />
+  </Seat>
+  <Seat>
+    <Name>11</Name>
+    <Customer />
+  </Seat>
+  <Seat>
+    <Name>12</Name>
+    <Customer />
+  </Seat>
+  <Seat>
+    <Name>13</Name>
+    <Customer />
+  </Seat>
+  <Seat>
+    <Name>14</Name>
+    <Customer />
+  </Seat>
+  <Seat>
+    <Name>15</Name>
+    <Customer />
+  </Seat>
+  <Seat>
+    <Name>16</Name>
+    <Customer />
+  </Seat>
+</ArrayOfSeat>
